@@ -1,0 +1,9 @@
+{
+  "name": "onefiles-backend",
+  "version": "1.0.0",
+  "description": "Serverless referral operations mapped via Netlify",
+  "main": "netlify/functions/referral.js",
+  "dependencies": {
+    "mongodb": "^6.5.0"
+  }
+}
